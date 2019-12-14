@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1576344914 source:c:\users\pmswga\desktop\nmr machine\main.cpp
+	<iostream>
+	"include/nmr.h"
+
+1576344996 source:c:\users\pmswga\desktop\nmr machine\include\nmr.cpp
+	"nmr.h"
+
+1576344992 c:\users\pmswga\desktop\nmr machine\include\nmr.h
+
+1576344996 source:g:\projects\mirea\nmr-machine\src\include\nmr.cpp
+	"nmr.h"
+
+1576344992 g:\projects\mirea\nmr-machine\src\include\nmr.h
+
+1576345498 source:g:\projects\mirea\nmr-machine\src\main.cpp
+	<iostream>
+	"include/nmr_programs.h"
+
+1576345488 g:\projects\mirea\nmr-machine\src\include\nmr_programs.h
+	"nmr.h"
+
